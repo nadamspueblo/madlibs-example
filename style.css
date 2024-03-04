@@ -1,0 +1,34 @@
+body {
+  color: white;
+  background-color: darkblue;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+#form {
+  background-color: lightblue;
+  color: black;
+  width: 80%;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid blue;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+#madlib {
+  background-color: pink;
+  color: black;
+  font-size: 30px;
+  width: 80%;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid red;
+  padding: 10px;
+  border-radius: 8px;
+}
